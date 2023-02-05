@@ -27,7 +27,7 @@ k) custom model
 l) custom gradient
 
 m) custom training loop
-
+##
 n) writing custom  tf functions
 
 o) custom optimizer
