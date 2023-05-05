@@ -39,9 +39,4 @@ q) custom regularizer
 r) custom learning rate scheduler
 
  
-
-Hint: https://github.com/ageron/handson-ml3/blob/main/12_custom_models_and_training_with_tensorflow.ipynbLinks to an external site.
-
- 
-
-Hint: https://github.com/ageron/handson-ml3/blob/main/11_training_deep_neural_networks.ipynb
+colab link: https://colab.research.google.com/drive/1vdeBs5BWmtzkzF6gM7xprbNt6vd4AcnL?usp=sharing
